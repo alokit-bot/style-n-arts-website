@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/style-n-arts-website/static/css/main.fd5df833.css",
+    "main.js": "/style-n-arts-website/static/js/main.3d799be8.js",
+    "index.html": "/style-n-arts-website/index.html",
+    "main.fd5df833.css.map": "/style-n-arts-website/static/css/main.fd5df833.css.map",
+    "main.3d799be8.js.map": "/style-n-arts-website/static/js/main.3d799be8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd5df833.css",
+    "static/js/main.3d799be8.js"
+  ]
+}
